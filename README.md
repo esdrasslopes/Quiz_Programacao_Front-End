@@ -11,9 +11,11 @@ Este é um quiz interativo para testar seus conhecimentos em Programação Front
 
 ## Tecnologias Utilizadas
 
-- **React:** Framework para construção da interface.
-- **React Context:** Para gerenciar o estado global (por exemplo, pontuação e respostas do usuário).
-- **CSS:** Estilização da interface.
+
+- **Vite**
+- **React**
+- **React Context**
+- **CSS** 
 
 ## Como Rodar o Projeto
 
